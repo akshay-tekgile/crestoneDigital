@@ -1,0 +1,235 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, crestonedigital
+# This file is distributed under the same license as the GIS Manager docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GIS Manager docs 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-17 15:56+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/googlecloudplatform.rst:2
+msgid "Google Cloud Platform"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:4
+msgid "Google Cloud Platform is a suite of public cloud computing services offered by Google. The platform includes a range of hosted services for compute, storage and application development that run on Google hardware. Google Cloud Platform services can be accessed by software developers, cloud administrators and other enterprise IT professionals over the public internet or through a dedicated network connection."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:6
+msgid "`Google Cloud website <https://cloud.google.com//>`_"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:8
+msgid "`Google Cloud Docs <https://cloud.google.com/docs/>`_"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:15
+msgid "Services Offered by GCP"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:11
+msgid "Computing and hosting"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:12
+msgid "Storage"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:13
+msgid "Networking"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:14
+msgid "Big data"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:15
+msgid "Machine learning"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:17
+msgid "To use any of the GCP service we have to enable billing. For free trial also we have to enable billing. When we start a free trial by giving our card details google will give $300 in credit and 12 months to explore Google Cloud Platform."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:19
+msgid "**Start GCP free trail**"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:21
+msgid "Login to Gmail account"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:22
+msgid "Go to https://cloud.google.com/ and click \"TRY IT FREE\""
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:27
+msgid "Choose Country and accept agreements"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:38
+msgid "Now a webpage with payment details and customer detail will appear"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:33
+msgid "Enter details in the form - Select type of account we need, \"Business\" or \"Individual\" - Enter Tax details and related details if applicable - Add name and address - Enter card Payment details After entering all details click \"Start my free trail\""
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:47
+msgid "**Google BigQuery**"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:50
+msgid "Google BigQuery docs: https://cloud.google.com/bigquery/quickstart-web-ui"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:52
+msgid "**Before you begin**"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:54
+msgid "Select or create a GCP project"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:56
+msgid "Go to - https://console.cloud.google.com/cloud-resource-manager"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:61
+msgid "Click on create project, Now a page will open"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:66
+msgid "Enter project name and give location which the project belongs."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:68
+msgid "Now a project is created"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:94
+msgid "Enable billing for your project."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:72
+msgid "Make sure that billing is enabled for your project."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:74
+msgid "Billing docs: https://support.google.com/cloud/answer/6293499#enable-billing"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:76
+msgid "If you are a billing administrator on only one billing account, new projects you create are automatically linked to your existing billing account."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:78
+msgid "To change the billing account:"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:80
+msgid "Go to the Google Cloud Platform Console (https://console.cloud.google.com/home/dashboard)."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:81
+msgid "Open the console left side menu and select Billing."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:82
+msgid "If you have more than one billing account, you'll be prompted to select Go to linked billing account to manage the current project's billing."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:83
+msgid "Under Projects linked to this billing account, locate the name of the project that you want to change billing for, and then click the menu next to it."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:84
+msgid "Select Change billing account, then choose the desired destination billing account."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:85
+#: ../../source/googlecloudplatform.rst:94
+msgid "Click Set account."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:87
+msgid "Enable billing for an existing project If you have a project that you temporarily disabled billing for, you can re-enable billing:"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:90
+msgid "Go to the Google Cloud Platform Console."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:91
+msgid "From the projects list, select the project to re-enable billing for."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:92
+msgid "Open the console left side menu and select Billing ."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:93
+msgid "Click Link a billing account."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:106
+msgid "Enable the Google BigQuery API."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:104
+msgid "BigQuery is automatically enabled in new projects. To activate BigQuery in a pre-existing project, go to Enable the BigQuery API."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:106
+msgid "Goto - https://console.cloud.google.com/flows/enableapi?apiid=bigquery-json.googleapis.com"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:114
+msgid "Now Click \"Click Enable Api\""
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:131
+msgid "Set up authentication with a service account."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:120
+msgid "Set up authentication with a service account so you can access the API from your local workstation. docs: https://cloud.google.com/docs/authentication/getting-started"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:123
+msgid "Creating a service account"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:125
+msgid "Go to the Create service account key page in the GCP Console."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:126
+msgid "https://console.cloud.google.com/apis/credentials/serviceaccountkey"
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:127
+msgid "From the Service account drop-down list, select New service account."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:128
+msgid "Enter a name into the Service account name field."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:129
+msgid "From the Role drop-down list, select Project > Owner."
+msgstr ""
+
+#: ../../source/googlecloudplatform.rst:130
+msgid "Click Create. A JSON file that contains your key downloads to your computer."
+msgstr ""
+

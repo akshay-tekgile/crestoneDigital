@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, crestonedigital
+# This file is distributed under the same license as the GIS Manager docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GIS Manager docs 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-17 15:56+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/carto.rst:2
+msgid "Carto"
+msgstr ""
+
+#: ../../source/carto.rst:4
+msgid "CARTO (formerly CartoDB) is a Software as a Service (SaaS) cloud computing platform that provides GIS and web mapping tools for display in a web browser. The company is positioned as a Location Intelligence platform due to tools with an aptitude for data analysis and visualization that do not require previous GIS or development experience."
+msgstr ""
+
+#: ../../source/carto.rst:6
+msgid "**API Key**"
+msgstr ""
+
+#: ../../source/carto.rst:8
+msgid "Access your API Key, which is uniquely generated for your account. When you use the CARTO Engine to request data, you can manage how your data is updated (write access), or protected, (read-only access)."
+msgstr ""
+
+#: ../../source/carto.rst:10
+msgid "Note: API Keys are only available for certain account plans."
+msgstr ""
+
+#: ../../source/carto.rst:12
+msgid "Api Docs: https://carto.com/docs/carto-editor/your-account/#api-key"
+msgstr ""
+
+#: ../../source/carto.rst:14
+msgid "**How to get Carto Api**"
+msgstr ""
+
+#: ../../source/carto.rst:17
+msgid "Login to Carto account"
+msgstr ""
+
+#: ../../source/carto.rst:17
+msgid "https://carto.com/"
+msgstr ""
+
+#: ../../source/carto.rst:22
+msgid "Now Carto Dashboard page will open, then click the icon on the top right of the page"
+msgstr ""
+
+#: ../../source/carto.rst:27
+msgid "Then click on \"Your API keys\""
+msgstr ""
+
+#: ../../source/carto.rst:29
+msgid "Now Carto Api Page will open, Get Api key from \"Master\" and Create or Regenerate Api key if needed."
+msgstr ""
+

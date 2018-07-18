@@ -20,13 +20,13 @@ msgstr ""
 
 #: ../../source/index.rst:7
 msgid "Welcome to GIS Manager documentation!"
-msgstr ""
+msgstr "GISマネージャのドキュメントへようこそ！"
 
 #: ../../source/index.rst:10
 msgid "GIS Manager Connectors"
-msgstr ""
+msgstr "GISマネージャコネクタ"
 
 #: ../../source/index.rst:13
 msgid "Table of Contents"
-msgstr ""
+msgstr "目次"
 

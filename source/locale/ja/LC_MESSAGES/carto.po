@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/carto.rst:2
 msgid "Carto"
-msgstr ""
+msgstr "カート"
 
 #: ../../source/carto.rst:4
 msgid ""
@@ -30,6 +30,11 @@ msgid ""
 "platform due to tools with an aptitude for data analysis and "
 "visualization that do not require previous GIS or development experience."
 msgstr ""
+「CARTO（旧CartoDB）はSaaS（Software as a Service）クラウド」
+「GISおよびWebマッピングツールを提供するコンピューティングプラットフォーム」
+"ウェブブラウザ。同社は、ロケーションインテリジェンスとして位置づけられている"
+"プラットフォームは、データ分析の適性を持つツールと"
+「以前のGISや開発経験を必要としない視覚化」
 
 #: ../../source/carto.rst:6
 msgid "**API Key**"
@@ -41,6 +46,9 @@ msgid ""
 "you use the CARTO Engine to request data, you can manage how your data is"
 " updated (write access), or protected, (read-only access)."
 msgstr ""
+"あなたのAPIキーにアクセスしてください。あなたのAPIキーは、あなたのアカウントで一意に生成されます。
+"CARTOエンジンを使用してデータを要求し、データの管理方法を"
+（書き込みアクセス）、または保護されている（読み取り専用アクセス）」のいずれかになります。
 
 #: ../../source/carto.rst:10
 msgid "Note: API Keys are only available for certain account plans."
@@ -48,15 +56,15 @@ msgstr "注：APIキーは、特定のアカウント計画でのみ使用でき
 
 #: ../../source/carto.rst:12
 msgid "Api Docs: https://carto.com/docs/carto-editor/your-account/#api-key"
-msgstr ""
+msgstr "Apiドキュメント：https://carto.com/docs/carto-editor/your-account/#api-key"
 
 #: ../../source/carto.rst:14
 msgid "**How to get Carto Api**"
-msgstr ""
+msgstr "** Carto Apiを取得する方法**"
 
 #: ../../source/carto.rst:17
 msgid "Login to Carto account"
-msgstr ""
+msgstr "Cartoアカウントにログイン"
 
 #: ../../source/carto.rst:17
 msgid "https://carto.com/"
@@ -67,14 +75,18 @@ msgid ""
 "Now Carto Dashboard page will open, then click the icon on the top right "
 "of the page"
 msgstr ""
+"Now Carto Dashboardページが開き、右上のアイコンをクリックします"
+"ページの"
 
 #: ../../source/carto.rst:27
 msgid "Then click on \"Your API keys\""
-msgstr ""
+msgstr "次に、"あなたのAPIキー "をクリックしてください"
 
 #: ../../source/carto.rst:29
 msgid ""
 "Now Carto Api Page will open, Get Api key from \"Master\" and Create or "
 "Regenerate Api key if needed."
 msgstr ""
+"今Carto Api Pageが開き、Apiのキーを" Master "から取得し、Createまたは"
+"必要に応じてApiキーを再生成します。"
 

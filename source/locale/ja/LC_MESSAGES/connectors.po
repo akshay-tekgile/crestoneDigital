@@ -20,5 +20,5 @@ msgstr ""
 
 #: ../../source/connectors.rst:2
 msgid "Connectors"
-msgstr ""
+msgstr "コネクタ"
 

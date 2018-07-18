@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/googlecloudplatform.rst:2
 msgid "Google Cloud Platform"
-msgstr ""
+msgstr "Google Cloud Platform"
 
 #: ../../source/googlecloudplatform.rst:4
 msgid ""
